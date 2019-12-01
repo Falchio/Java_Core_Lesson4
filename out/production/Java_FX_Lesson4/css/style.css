@@ -1,0 +1,19 @@
+.button{
+    -fx-background-color: teal;
+}
+
+.button:hover{
+     -fx-background-color: #FEBE19;
+}
+
+
+.text-area {
+    -fx-background-color: white;
+    -fx-text-fill: black;
+    -fx-font-size: 14px;
+
+}
+
+.text-area *.text {
+    -fx-text-alignment: right;
+}
